@@ -1,16 +1,14 @@
-Jekyll-Pug-Material
----
+# Minimal Theme
 
-![Screenshot of template](src/static/img/screenshot.png)
+[Demo the Theme](http://orderedlist.github.com/minimal/)
 
-# A Material Design Pug Experience Using [Jekyll-Pug](https://jekyll-pug.dougie.io/)
+This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
 
-## To Run:
+Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
 
-1. Clone/download this repository.
-2. `cd` into the cloned/downloaded repository and run the command `bundle`.
-3. Run the command `jekyll serve`.
+# License
 
-## Package.json?
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
-The package.json is for deploying to Netlify. It tells Netlify to install the Pug-CLI NPM package which is needed in order to run Jekyll-Pug.
+
+
