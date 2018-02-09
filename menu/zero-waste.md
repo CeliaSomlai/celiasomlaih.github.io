@@ -3,7 +3,7 @@ layout: page
 title: "Zero Waste Adventures"
 ---
 
-![ZW banner]({{ site.github.url }}/assets/img/zw-banner.jpg "ZW Banner")
+![ZW banner]({{ site.github.url }}/assets/img/zw-header.jpg "ZW Banner")
 
 ---
 
