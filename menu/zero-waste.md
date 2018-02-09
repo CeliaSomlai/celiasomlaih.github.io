@@ -3,8 +3,19 @@ layout: page
 title: "Zero Waste Adventures"
 ---
 
-![Pesto Jars]({{ site.github.url }}/assets/img/pestojars.jpg "Pesto Jars")
+![ZW banner]({{ site.github.url }}/assets/img/zw-banner.jpg "ZW Banner")
 
-Welcome to my zero waste adventures
+---
 
+### What is **zero waste**?
 
+Coming soon...
+---
+
+### What does **zero waste** mean to me?
+
+Coming soon...
+---
+
+### Where I get zero waste inspiration? 
+Coming soon...
