@@ -6,10 +6,11 @@ disqus:
 google-ID: 'UA-113866965-1'
 
 menu:
-- {name: 'Journal', path: 'menu', url: 'journal.html'}
-- {name: 'Zero Waste', path: 'menu', url: 'zero-waste.html'}
 - {name: 'About', path: 'menu', url: 'about.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
+- {name: 'Journal', path: 'menu', url: 'journal.html'}
+- {name: 'Research', path: 'menu', url: 'research.html'}
+- {name: 'Zero Waste', path: 'menu', url: 'zero-waste.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
