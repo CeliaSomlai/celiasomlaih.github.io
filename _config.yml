@@ -20,7 +20,7 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Adventures of Celia'
+title:		           'Celia&#39;s Adventures'
 description:	       'in research, zero waste living and discovering the world'
 author:                'Celia Somlai'
 
