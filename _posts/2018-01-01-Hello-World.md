@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 author: "Celia Somlai"
-categories: zerowaste
+categories: journal
 tags: [documentation,sample]
 ---
 
