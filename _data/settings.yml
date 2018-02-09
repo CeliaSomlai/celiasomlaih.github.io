@@ -3,7 +3,7 @@ disqus:
   comments: true
   disqus_shortname: 'celiasomlai'
 
-google-ID: 'UA-112060364-1'
+google-ID: 'UA-113866965-1'
 
 menu:
 - {name: 'Journal', path: 'menu', url: 'journal.html'}
