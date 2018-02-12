@@ -15,7 +15,7 @@ Coming soon...
 ### Publications
 
 #### 2017
-Magin K, **Somlai-Haase C**, Schäfer RB and Lorke A (2017) *Regional-scale lateral carbon transport and CO2 evasion in temperate stream catchments*. Biogeosciences, 14(21), pp. 5003-5014. 
+Magin K, **Somlai-Haase C**, Schäfer RB and Lorke A (2017) *Regional-scale lateral carbon transport and CO<sub>2</sub> evasion in temperate stream catchments*. Biogeosciences, 14(21), pp. 5003-5014. 
 
 **Somlai-Haase C**, Knappe J and Gill L (2017) *Carbon dioxide emissions from a septic tank soakaway in a northern maritime climate*. Science of The Total Environment, 586, pp.485-491.
 
