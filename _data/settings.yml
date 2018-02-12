@@ -8,6 +8,7 @@ google-ID: 'UA-113866965-1'
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
+- {name: 'Research', path: 'menu', url: 'research.html'}
 - {name: 'Journal', path: 'menu', url: 'journal.html'}
 - {name: 'Zero Waste', path: 'menu', url: 'zero-waste.html'}
 
