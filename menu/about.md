@@ -5,7 +5,7 @@ title: About
 
 ![Celia]({{ site.github.url }}/assets/img/celia.jpg "Celia")
 
-# Welcome to join my advantures
+# Welcome to join my adventures
 
 * I am a researcher investigating greenhouse gas emissions from anthropoginecally modified systems.
 
