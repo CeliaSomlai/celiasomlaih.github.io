@@ -3,4 +3,4 @@ layout: page
 title: Contact
 ---
 
-If you are having any comments, questions or suggestions, feel free to drop me an [email](celia.somlai@gmail.com).
+If you are having any comments, questions or suggestions, feel free to drop me an [email](mailto:celia.somlai@gmail.com).
