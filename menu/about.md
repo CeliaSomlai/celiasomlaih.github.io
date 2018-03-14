@@ -7,8 +7,12 @@ title: About - Welcome to my adventures
 
 I am ...
 
-* a researcher investigating greenhouse gas emissions from anthropogenically modified systems.
+* Hungarian.
+
+* based in Dublin, Ireland.
 
 * on a continuous journey to adopt a sustainable and zero waste lifestyle.
 
 * a traveler with a never ending wanderlust!
+
+* a researcher investigating greenhouse gas emissions from anthropogenically modified systems.
