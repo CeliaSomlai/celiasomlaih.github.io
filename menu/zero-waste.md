@@ -23,7 +23,7 @@ Rot the rest (-:
 
 ---
 
-### What does **zero waste** mean to me?
+## What does **zero waste** mean to me?
 
 I believe that **zero waste** is just a term. I cannot imagine my own life with no trash... But **zero waste** is not only about the physical trash, there are so many aspects to an environmentally sustainable lifestyle. 
 
@@ -32,18 +32,17 @@ My personal aim is to eliminate single-use plastic from my life. I still eat ani
 In my opinion, the most important thing is to raise awareness. People should be more conscious about the consequences of their daily decisions.
 
 For example,
-###### have you ever thought about where your cigarette butts will end up; 
-###### do you know that the green dot - Der Grüne Punkt - on packaging means only that the manufacturer of the product contributes to the cost of recovery and recycling or 
-###### are you aware of that in Ireland coffee cups are not recyclable...???
+##### have you ever thought about where your cigarette butts will end up; 
+##### do you know that the green dot - Der Grüne Punkt - on packaging means only that the manufacturer of the product contributes to the cost of recovery and recycling or 
+##### are you aware of that in Ireland coffee cups are not recyclable...???
 
 ---
 
-### Where I get zero waste inspiration? 
+## Where I get zero waste inspiration? 
 
 #### English - IRE
 
-Coming to Zero by Zdenka
-https://comingtozero.com/
+(Coming to Zero by Zdenka)[https://comingtozero.com/]
 
 
 Simple No Waste Life by Timi
