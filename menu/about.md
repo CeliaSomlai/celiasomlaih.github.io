@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: About - Welcome to my adventures
 ---
 
 ![Celia]({{ site.github.url }}/assets/img/celia.jpg "Celia")
 
-# Welcome to join my adventures
+I am ...
 
-* I am a researcher investigating greenhouse gas emissions from anthropoginecally modified systems.
+* a researcher investigating greenhouse gas emissions from anthropogenically modified systems.
 
-* I am on a countinous journey to adopt a sustainable and zero waste lifestyle.
+* on a continuous journey to adopt a sustainable and zero waste lifestyle.
 
-* I am a traveller with a never ending wanderlust!
+* a traveler with a never ending wanderlust!
