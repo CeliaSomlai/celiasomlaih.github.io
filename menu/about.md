@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About - Welcome to my adventures
+title: About
 ---
 
 ![Celia]({{ site.github.url }}/assets/img/celia.jpg "Celia")
