@@ -32,39 +32,33 @@ My personal aim is to eliminate single-use plastic from my life. I still eat ani
 In my opinion, the most important thing is to raise awareness. People should be more conscious about the consequences of their daily decisions.
 
 For example,
-##### have you ever thought about where your cigarette butts will end up; 
-##### do you know that the green dot - Der Grüne Punkt - on packaging means only that the manufacturer of the product contributes to the cost of recovery and recycling or 
-##### are you aware of that in Ireland coffee cups are not recyclable...???
+- have you ever thought about where your cigarette butts will end up; 
+- do you know that the green dot - Der Grüne Punkt - on packaging means only that the manufacturer of the product contributes to the cost of recovery and recycling or 
+- are you aware of that in Ireland coffee cups are not recyclable...???
 
 ---
 
 ## Where I get zero waste inspiration? 
 
-#### English - IRE
+#### IRE
 
-(Coming to Zero by Zdenka)[https://comingtozero.com/]
+[Coming to Zero by Zdenka](https://comingtozero.com/)
 
+[Simple No Waste Life by Timi](https://simplenowastelife.com/)
 
-Simple No Waste Life by Timi
-https://simplenowastelife.com/
-
-Tight Budget / Low Waste and Journey to a Sustainable Wardrobe by Íde
-http://blogota.weebly.com/
+[Tight Budget / Low Waste and Journey to a Sustainable Wardrobe by Íde](http://blogota.weebly.com/)
 
 
-#### English - AUS
+#### AUS
 
-Treading My Own Path by Lindsay 
-https://treadingmyownpath.com/
+[Treading My Own Path by Lindsay](https://treadingmyownpath.com/)
 
-#### English - US
+#### US
  
-Zero Waste Home by Bea
-https://zerowastehome.com/
+[Zero Waste Home by Bea](https://zerowastehome.com/)
 
 
-####English - DK
+#### DK
 
-The Picture of Mary by Gittemary
-http://www.gittemary.com/
+[The Picture of Mary by Gittemary](http://www.gittemary.com/)
 
