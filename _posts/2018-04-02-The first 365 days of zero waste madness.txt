@@ -2,7 +2,6 @@
 layout: post
 title: "The first 365 days of zero waste madness"
 author: "Celia Somlai"
-categories: zero waste
 tags: [zerowaste,firstyear]
 image: cutting.jpg
 ---
