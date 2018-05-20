@@ -14,7 +14,7 @@ Though I still have a PhD to finish this summer... But I will try to do my best 
 
 I hope this post will help some of the local Dubliners on their zero waste journey to know where to find what packaging free in Dublin and surrounding areas.
 
-There are 5 main places (I am aware of) where you can have dried goods straight into your own container (cloth bag, jar, plastic Chinese box...).
+There are 5 main places (I am aware of) where you can get dried goods straight into your own container (cloth bag, jar, plastic Chinese box...).
 
 **Pop-up stalls**
 
