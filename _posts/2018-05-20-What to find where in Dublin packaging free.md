@@ -32,4 +32,4 @@ SC - [Small Changes](https://www.smallchanges.ie/)
 
 I sourced data from the websites/facebook sites of the stalls/stores, except of the DFC, they do not have their list online, so it is based on what was available in their store at the beginning of May.
 
-![zw-dublin](https://www.celiasomlai.com/assets/img/zw-dublin.png "zw-dublin")
+![zw-dublin]({{ site.baseurl }}/assets/img/zw-dublin.png "zw-dublin")

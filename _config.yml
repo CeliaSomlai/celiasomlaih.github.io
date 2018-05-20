@@ -24,6 +24,9 @@ title:		           'Celia&#39;s Adventures'
 description:	       'in research, zero waste living and discovering the world'
 author:                'Celia Somlai'
 
+url: https://www.celiasomlai.com
+baseurl: ""
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
