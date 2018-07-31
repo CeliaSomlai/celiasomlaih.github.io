@@ -12,7 +12,7 @@ Hey hey!
 Recycling might be your really first step towards to a zero waste / low waste lifestyle, but hopefully this step will not be the last.
 Nevertheless, it is super important to do your recycling right and avoid wish-cycling.
 
-**What is wish-cycling? **
+**What is wish-cycling?**
 
 Putting questionable item, you want to dispose, in your recycling bin in the hope that it will get recycled.
 
@@ -47,7 +47,7 @@ Grocery, ziplock, bread and newspaper bags can tangled around the machines and c
 They can be recycled, but usually not together with rigid plastics.
 I have heard about places in the U.S. and in New Zealand where you can drop off your cleam soft plastic for recycling.
 
-** Why is wish-cycling dangerous?**
+**Why is wish-cycling dangerous?**
 
 Wish-cycling poses a serious problem for the recycling industry.
 
@@ -56,7 +56,7 @@ Food contaminated items, like greasy pizza box can contaminate other recyclable 
 Other problem was mentioned earlier, soft plastics can tangled around the machines other small pieces can jammed up in machines forcing temporary shut downs. 
 This shut downs means lost in time and profit. It does not sound that cool right?!
 
-** What to do to avoid wish-cycling? **
+**What to do to avoid wish-cycling?**
 
 First of all, I encourage you to do your own research, educate yourself and try to understand your local recycling system, if it is necessary contact your local facilities and ask for an up-to-date list.
 
@@ -69,7 +69,7 @@ They are also super active in answering questions on their facebook page.
 
 Here in Ireland the three - and plus one - main rules: CLEAN, DRY, LOOSE and NO SOFT PLASTIC!!!
 
-** What to do beyond recycling? **
+**What to do beyond recycling?**
 
 You should recycle, but that should not be your ultimate aim and definitely do not stop there.
 
