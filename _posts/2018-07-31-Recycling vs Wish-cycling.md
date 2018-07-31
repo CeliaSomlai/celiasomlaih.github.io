@@ -32,22 +32,22 @@ Here it is important to mention the difference between recyclable and being recy
 
 **Recyclable vs. being recycled**
 
-	In theory, everything could be recycled.
-	But it is not always worth economically to go through a complex recycling process, so basically recycling facilities select things that makes sense economically to be recycled.
+In theory, everything could be recycled.
+But it is not always worth economically to go through a complex recycling process, so basically recycling facilities select things that makes sense economically to be recycled.
 	
-	Different countries have different rules, even different facilities have different recycling lists.
+Different countries have different rules, even different facilities have different recycling lists.
 	
-	Unfortunately, a label on the product RECYCLABLE does not mean if you throw that to a recycling bin it gets recycled.
-	Maybe at the facility where your rubbish will end up they do not have the instrumentation or capacity to deal with that type of waste.
+Unfortunately, a label on the product RECYCLABLE does not mean if you throw that to a recycling bin it gets recycled.
+Maybe at the facility where your rubbish will end up they do not have the instrumentation or capacity to deal with that type of waste.
 	
-	For example, no coffee cups get recycled in Ireland with the current recycling facilities, but still thousands of people daily toss their disposable coffee cups into recycling bins.
+For example, no coffee cups get recycled in Ireland with the current recycling facilities, but still thousands of people daily toss their disposable coffee cups into recycling bins.
 
-	Thin plastic film is a more general and global example for wish-cycling.
-	Grocery, ziplock, bread and newspaper bags can tangled around the machines and causing break downs.
-	They can be recycled, but usually not together with rigid plastics.
-	I have heard about places in the U.S. and in New Zealand where you can drop off your cleam soft plastic for recycling.
+Thin plastic film is a more general and global example for wish-cycling.
+Grocery, ziplock, bread and newspaper bags can tangled around the machines and causing break downs.
+They can be recycled, but usually not together with rigid plastics.
+I have heard about places in the U.S. and in New Zealand where you can drop off your cleam soft plastic for recycling.
 
-**Why is wish-cycling dangerous?**
+** Why is wish-cycling dangerous?**
 
 Wish-cycling poses a serious problem for the recycling industry.
 
