@@ -28,6 +28,7 @@ However, I took my time and I collected data from some 'conventional' health and
 I wanted to see what is actually the difference price-wise between shopping package-free and packaged.
 
 I sourced data from the websites/facebook sites of the stalls/stores, except of the DFC, they do not have their list online, so it is based on what was available in their store at the beginning of May.
+
 Bulk - [Bare Necessities](https://www.facebook.com/BareNecessitiesIreland/){:target="_blank"} , [Bring Your Own](https://www.facebook.com/bringyourowncontainers/){:target="_blank"} , [Minimal Waste Grocery](https://minimalwastegrocery.com/){:target="_blank"} and [Dublin Food Coop](https://www.dublinfood.coop/){:target="_blank"}
 
 Packaged - [Dublin Food Coop](https://www.dublinfood.coop/){:target="_blank"} , [Nourish](https://www.nourish.ie/){:target="_blank"} and [The Organic Supermarket](https://www.organicsupermarket.ie/){:target="_blank"}
@@ -44,19 +45,19 @@ We can see that there is higher variation in price for the packaged products tha
 Some of the products (oat flakes, long-grain brown rice, Basmati rice, chickpeas, sea salt, almonds, cashes, and black peppercorns) is available in bulk for the lowest price.
 And except of red lentils and pumpkin seeds, all the other products have higher median price in packaged form.
 
-On graph below, we can see the relative price difference in percentage between the bulk and packaged goods to see how much we can save or need to invest if we want to buy package free.
+In graph below, we can see the relative price difference in percentage between the bulk and packaged goods to see how much we can save or need to invest if we want to buy package free.
 The dots show the mean difference. 
-For example, it is 90% saving in average if you buy salt in bulk and for coffee in average you need to invest 15% more if you want to buy it without package.
+You can quickly identify the two extreme cases: While you can save 90% on average when buying loose salt compared to the packed version, for coffee, however, the unpackaged option will set you back 15% more on average compared to the loose alternative.
 The lines show the upper (the lowest bulk price versus the highest packaged price) and lower limit (the highest bulk price versus the lowest packaged price).
 
 ![Rev_price]({{ site.baseurl }}/assets/img/Rev_price.jpeg "Rev_price")
 
 I found three products where you can definitely save money. The ultimate winner is salt. There is no excuse here, we all should head out and buy our sea salt from one of the package free places!
 Second one is black peppercorns. We all have an existing pepper grinder. Next time when you run out of pepper just bring your grinder and get it refilled!
-And on third place is almonds... yum. One more reason eat almonds(-:
+And in third place is almonds... yum. One more reason to eat almonds(-:
 
 
-So no more excuses! You do not buy all package free and or organic. Make your own small steps. Start with salt or black peppercorns and buy some almonds if you are already there (-;
+So no more excuses! You do not need to buy all package free and or organic. Make your own small steps. Start with salt or black peppercorns and buy some almonds if you are already there (-;
 
 Bulk is beautiful!
 
