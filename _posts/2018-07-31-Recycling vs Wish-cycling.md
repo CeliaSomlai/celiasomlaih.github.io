@@ -63,7 +63,7 @@ First of all, I encourage you to do your own research, educate yourself and try 
 An example, I was trying to avoid plastic so I thought if I buy my milk in tetra-pack I do good, but it turned out that where I live rigid plastic bottles get recycled easier than tetra-packs.
 So at the rare occasions when I buy milk I go for the rigid plastic bottles.
 
-If you are in Ireland, check out this informative and up-to-date [website](https://recyclinglistireland.ie/) on the current recycling list in Ireland.
+If you are in Ireland, check out this informative and up-to-date [website](https://recyclinglistireland.ie/){:target="_blank"} on the current recycling list in Ireland.
 You can even apply for a free recycling workshop for your neighbourhood or workplace by one of the recycling ambassadors of VOICE Ireland.
 They are also super active in answering questions on their facebook page.
 
