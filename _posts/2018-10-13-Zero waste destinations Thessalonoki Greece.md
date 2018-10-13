@@ -16,7 +16,7 @@ At the end of August, I had a research related conference in Thessaloniki and I 
 
 Here I summarised my 2 weeks in Thessaloniki in a zero waste point of view.
 
-##Travel
+## Travel
 
 I flew to Thessaloniki from Dublin.
 This mean of travel has definitely not the lowest impact on our environment, but I had to be in Thessaloniki for work and staying longer made me feel a bit better about my carbon footprint from flying.
@@ -26,7 +26,7 @@ Thessaloniki is really a walkable city and I used the bus basically just from an
 
 There area also boats and ferries what you should not miss while in town.
 
-##Eating, drinking on the go 
+## Eating, drinking on the go 
 
 In Greece, it seemed EVERYONE was sucking on disposable straw regardless of age or gender.
 Crazy amount of plastic frappe cups with plastic straws was everywhere!!!
@@ -46,12 +46,12 @@ I always have something with me to refill with water.
 Check out this [website](http://refillgreece.org/){:target="_blank"} for refill stations in Greece.
 
  
-##Grocery shopping
+## Grocery shopping
 
 Even though I could not find a special zero waste shop in Thessaloniki, buying package-free and bulk was super easy and helped me to create the minimum waste during the two weeks.
 Dried fruits, nuts, granola, beans... 
 
-###Supermarkets and smaller local shops
+### Supermarkets and smaller local shops
 
 At bigger supermarkets and smaller local shops, the most of the vegetables were unwrapped.
 Bulk legumes and rice (no pasta though) are widely available.
@@ -63,21 +63,21 @@ At a local shop, I could even get freshly ground coffee into own container.
 
 ![Thessaloniki_bulk]({{ site.baseurl }}/assets/img/Thessaloniki_bulk.jpg "Thessaloniki_bulk")
 
-###Markets
+### Markets
 
 In the city centre, there is a huge market area with everything you might need during your stay and so many refill, bulk and loose options.
 
 There was also a market just outside of the AirBnb once a week with mostly veg and fruit but also some stands selling olives, cheese and fish.
 Here I could buy not perfectly shaped tomatoes and aubergines dead cheap.
 
-###Milk and OJ refill station
+### Milk and OJ refill station
 
 The super bonus was a [refilling station for milk and orange juice](http://thesgala.gr/){:target="_blank"} just 10 minutes walk from my AirBnB.
 
 ![Thessaloniki_milk_refill]({{ site.baseurl }}/assets/img/Thessaloniki_milk_refill.jpg "Thessaloniki_milk_refill")
 
 
-###Bakeries
+### Bakeries
 
 So many bakeries where it was super easy to buy bread and cakes without package or only wrapped in papers.
 I have even had mini ice cream without any package.
@@ -87,7 +87,7 @@ The negative is that the plastic bags are everywhere and comes automatically and
 I had my tote bag in my hand and by ordering I was already pointing out that I do not want to have extra bags.
 After the 2 weeks, I ended up with 2-3 unwanted plastic bags that got turned into bin bags.
 
-##Recycling
+## Recycling
 
 No compost facilities.
 Recycling bins seemed to contain no different from the general bins.
@@ -97,7 +97,7 @@ On the positive note, I found a recycling station at a bigger Lidl where you can
 It would be so great to have these recycling stations also here in Ireland.
 
 
-##Toilet
+## Toilet
 
 Do not throw paper in the toilet! This sign was everywhere. Apparently, the sewage pipes are not wide enough and they get easily clogged with the papers.
 People basically use toilet paper as normal and throw the papers to the bin next to the toilet.
