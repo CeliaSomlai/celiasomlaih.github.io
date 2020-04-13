@@ -13,9 +13,9 @@ I am back with a new zero waste blog post(s) as an official Irish Climate Ambass
 
 In our shared apartment (after communal deliberation and agreement) we started applying the
 
-> If it's yellow,
-> let it mellow.
-> If it's brown,
+> If it's yellow,<br>
+> let it mellow.<br>
+> If it's brown,<br>
 > flush it down
 
 rule.
@@ -30,15 +30,12 @@ Our toilet uses 7.5 litres of valuable freshwater per flush - yes, we did measur
 
 Well, now where does that leave us? I wanted to check how this compares to the general water usage estimates in Ireland. According to Irish Water, it is estimated that we use on average 129 litres per day, of which 26% we used for flushing our toilets. So it would mean that people live in Ireland use 36.12 L water per day on average for flushing toilets.
 
-![waterusage](assets/img/waterusage.jpg)
+![waterusage]({{ site.baseurl }}/assets/img/waterusage.jpg)
 
 During my research, I also came across an Irish Environmental Protection Agency report titled "Water saving technologies to reduce water consumption and wastewater production in Irish households" written by very talented people I worked with at Trinity College including my PhD supervisor <3 You can find the link to the report [here]( http://www.epa.ie/pubs/reports/research/water/STRIVE_108_Water%20saving%20technologies....pdf)
 
-According to the report mentioned above, toilet cistern capacities have decreased from 20 litres in the mid-20th century to 6 or less litres today. It seems toilet cisterns with flush volume around 7-9 litres like ours, were installed between 1993 and 1999. There are also new technologies (dual flush toilet and vacuum toilet with urine diversion) available on the market to reduce the water usage per flush to between 0.6 - 1 litres. Of course, we should not all run to buy a new toilet cistern to reduce our water usage. One easy solution is just to put a plastic bottle filled with water into your cistern to reduce the amount of water used per flush. And that's what we did now.
+According to the report mentioned above, toilet cistern capacities have decreased from 20 litres in the mid-20th century to 6 or less litres today. It seems toilet cisterns with flush volume around 7-9 litres like ours, were installed [between 1993 and 1999](https://www.ofwat.gov.uk/wp-content/uploads/2018/05/The-long-term-potential-for-deep-reductions-in-household-water-demand-report-by-Artesia-Consulting.pdf). There are also new technologies (dual flush toilet and vacuum toilet with urine diversion) available on the market to reduce the water usage per flush to between 0.6 - 1 litres. Of course, we should not all run to buy a new toilet cistern to reduce our water usage. One easy solution is just to put a plastic bottle filled with water into your cistern to reduce the amount of water used per flush. And that's what we did now.
 
 
-[Here you can find](https://www.water.ie/conserve/) further water-conserving ideas by Irish Water.
-
-Artesia Consulting 2018 - The long term potential for deep reductions in household water demand.
-https://www.ofwat.gov.uk/wp-content/uploads/2018/05/The-long-term-potential-for-deep-reductions-in-household-water-demand-report-by-Artesia-Consulting.pdf
+[Here you can find](https://www.water.ie/conserve/) further water conservation ideas by Irish Water.
 
