@@ -32,7 +32,7 @@ Our toilet uses 7.5 litres of valuable freshwater per flush - yes, we did measur
 
 Well, now where does that leave us? I wanted to check how this compares to the general water usage estimates in Ireland. According to Irish Water, it is estimated that we use on average 129 litres per day, of which 26% we used for flushing our toilets. So it would mean that people live in Ireland use 36.12 L water per day on average for flushing toilets.
 
-<img src="{{ site.baseurl }}/assets/img/waterusage.jpg" width="200">
+<img align="center" src="{{ site.baseurl }}/assets/img/waterusage.jpg" width="400">
 
 But how you could conserve water using for toilet flushes if the yellow-mellow is not your cup of tea?!
 
