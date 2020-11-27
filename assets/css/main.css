@@ -499,3 +499,18 @@ th, td {
 .fa-rss-square:hover {
 	color: #ff6600;
 }
+
+// 
+// CUSTOM THINGS
+// ------------------------------------
+
+// Kofi Button
+
+.button-kofi {  
+    position: absolute;
+    min-width: 185px;
+    left: 50%;
+    right: 50%;
+    padding: 0px;
+    transform: translate(-50%, -15%);
+}
