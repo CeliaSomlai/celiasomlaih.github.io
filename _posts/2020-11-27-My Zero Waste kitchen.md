@@ -32,6 +32,7 @@ But what to do with them? You can add to curries, stir fries or soups. However, 
 **Over ripe bananas**
 
 It happens with everyone. Leaving your banana too long on the kitchen counter and it gets too ripe to eat as it is. Adding them to a smoothie or baking a banana bread with them is a great idea. But let me give you here two more alternatives.
+
 *Fried bananas*
 
 I learned this recipe from my host mom back in my early twenties when I was in Australia for 3 months. So get some margarine or butter, add to a frying pan. Sliced your bananas in. Let them fry, cook for 3-5 minutes. Add some orange juice, coconut flakes. You can top it up with some booze like rum if you do not serve it as a breakfast.
