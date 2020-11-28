@@ -12,12 +12,6 @@ layout: default
 
 {{ content }}
 
-</div>
-<div class="button-kofi">
-  <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script>
-  <script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#29abe0', 'L4L02NFV5');kofiwidget2.draw();</script> 
-</div>
-
 <span class="post-date">
   {{ site.data.settings.post_date_prefix }}
   {% assign d = page.date | date: "%-d"  %}
@@ -35,6 +29,11 @@ layout: default
     {{ site.author }}
   {% endif %}
 </span>
+
+<div class="button-kofi">
+  <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script>
+  <script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#29abe0', 'L4L02NFV5');kofiwidget2.draw();</script> 
+</div>
 
 {% include related-posts.html %}
 
