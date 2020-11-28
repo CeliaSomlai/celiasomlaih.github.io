@@ -507,10 +507,5 @@ th, td {
 // Kofi Button
 
 .button-kofi {  
-    position: absolute;
-    min-width: 185px;
-    left: 50%;
-    right: 50%;
-    padding: 0px;
-    transform: translate(-50%, -15%);
+    min-width: 185px; 
 }
