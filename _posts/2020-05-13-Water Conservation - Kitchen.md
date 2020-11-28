@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Water Conservation - Toilet"
+title: "Water Conservation - Kitchen"
 author: "Celia Somlai"
 categories: journal
 tags: [zerowaste,waterconservation]
