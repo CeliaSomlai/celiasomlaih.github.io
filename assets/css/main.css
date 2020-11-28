@@ -151,7 +151,7 @@ hr {
 .post-date {
   display: block;
   margin-top:3px;
-  margin-bottom: 1rem;
+  margin-bottom: 10rem;
   color: #9a9a9a;
   font-family: 'Quattrocento Sans', sans-serif;
   font-size:0.8rem;
@@ -165,7 +165,7 @@ hr {
 
 .related {
   padding-bottom: 2rem;
-  padding-top: 10rem
+  padding-top: 3rem
 }
 
 .related-posts {
