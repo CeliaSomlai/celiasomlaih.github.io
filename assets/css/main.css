@@ -508,4 +508,7 @@ th, td {
 
 .button-kofi {  
     min-width: 185px; 
+	position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
